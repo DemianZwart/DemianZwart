@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DemianZwart
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java, python and c++
